@@ -1,0 +1,14 @@
+{
+  "photosynthesis": {
+    "subject": "science",
+    "definition": "Photosynthesis is the process by which plants make food using sunlight.",
+    "example": "Green leaves use sunlight to produce glucose.",
+    "key_points": ["Sunlight", "Chlorophyll", "Carbon dioxide", "Oxygen release"]
+  },
+  "pythagoras theorem": {
+    "subject": "math",
+    "definition": "In a right triangle, a² + b² = c².",
+    "example": "If a=3 and b=4, then c=5.",
+    "key_points": ["Right triangle", "Squares", "Hypotenuse"]
+  }
+}
